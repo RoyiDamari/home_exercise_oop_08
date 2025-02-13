@@ -1,5 +1,5 @@
-from CompositeBag import  CompositeBag
-from LeafItem import LeafItem
+from Bag import  CompositeBag
+from Item import LeafItem
 
 def main():
     # Create individual items
