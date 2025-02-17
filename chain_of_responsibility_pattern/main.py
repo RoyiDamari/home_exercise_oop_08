@@ -1,9 +1,9 @@
-from RangeCheck import  RangeCheck
-from DivisibleBy2 import DivisibleBy2
-from DivisibleBy3 import DivisibleBy3
-from DivisibleBy5 import DivisibleBy5
-from DivisibleBy7 import DivisibleBy7
-from PrimeNumber import PrimeNumber
+from range_check import  RangeCheck
+from divisible_by_2 import DivisibleBy2
+from divisible_by_3 import DivisibleBy3
+from divisible_by_5 import DivisibleBy5
+from divisible_by_7 import DivisibleBy7
+from prime_number import PrimeNumber
 
 def main():
 

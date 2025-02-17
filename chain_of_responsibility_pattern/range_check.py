@@ -1,4 +1,4 @@
-from PrimeNumberHandler import PrimeNumberHandler
+from prime_number_handler import PrimeNumberHandler
 from typing import override
 
 

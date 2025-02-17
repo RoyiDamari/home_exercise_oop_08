@@ -1,5 +1,5 @@
 from typing import override
-from Equipment import Equipment
+from equipment import Equipment
 
 
 class LeafItem(Equipment):
